@@ -1,3 +1,5 @@
 Sample file
 
 Line added #1
+
+Line added #2 from local terminal
